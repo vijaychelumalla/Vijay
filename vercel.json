@@ -1,6 +1,7 @@
 {
-  "buildCommand": "cd zomato-clone && npm install && npm run build",
-  "outputDirectory": "zomato-clone/dist",
+  "name": "flavor-dash",
+  "buildCommand": "cd project && npm install && npm run build",
+  "outputDirectory": "project/dist",
   "framework": "vite",
   "rewrites": [
     {
