@@ -1,0 +1,18 @@
+# dependencies
+node_modules/
+
+# environments
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vite / React outputs
+project/dist
+project/dist-ssr
+project/*.local
+
+# OS files
+.DS_Store
+Thumbs.db
