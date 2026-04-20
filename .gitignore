@@ -9,9 +9,9 @@ node_modules/
 .env.production.local
 
 # Vite / React outputs
-project/dist
-project/dist-ssr
-project/*.local
+zomato-clone/dist
+zomato-clone/dist-ssr
+zomato-clone/*.local
 
 # OS files
 .DS_Store
