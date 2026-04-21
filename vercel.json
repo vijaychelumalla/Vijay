@@ -1,5 +1,5 @@
 {
-  "name": "flavor-dash",
+  "name": "foodies-app",
   "buildCommand": "cd zomato-clone && npm install && npm run build",
   "outputDirectory": "zomato-clone/dist",
   "framework": null,
